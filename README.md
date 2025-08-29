@@ -6,6 +6,8 @@ Materials and demo code for **CSE 572 tutorial sessions** by TA Sixun Dong.
 
 This repository contains materials for multiple tutorial sessions. Each session has its own folder with specific content.
 
+If you find this repo and tutorial useful, I look forward to your Star ⭐
+
 ## 📂 Sessions
 
 ### [Session 1: Getting Started](session-1/)
