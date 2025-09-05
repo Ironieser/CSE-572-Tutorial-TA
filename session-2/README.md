@@ -10,8 +10,8 @@ Week 2 - Labor Day (Pandas Tutorial by TA)
 - Save results to files
 
 ## 🗓 Session Info
-- **Date:** Week 2
-- **Time:** TBD
+- **Date:** Monday, September 5, 2025
+- **Time:** 4:30–5:00 PM
 - **Recording:** Available on Canvas
 
 ## 📂 Structure
