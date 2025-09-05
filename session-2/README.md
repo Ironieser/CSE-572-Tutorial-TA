@@ -84,4 +84,4 @@ Homepage: [https://cv.ironieser.cc](https://cv.ironieser.cc)
 
 ---
 
-*Materials will be added before the session. Questions? Contact TA through Canvas.*
+*All materials are ready! Questions? Contact TA through Canvas.*

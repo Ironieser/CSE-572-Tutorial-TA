@@ -38,7 +38,7 @@ If you find this repo and tutorial useful, I look forward to your Star ⭐
 
 ## 🗓 Session Schedule
 - **Week 1 (08/29)**: Getting Started ✅
-- **Week 2 (09/01)**: Labor Day (Pandas Tutorial by TA) 📝
+- **Week 2 (09/01)**: Labor Day (Pandas Tutorial by TA) ✅
 - **Week 3 (09/08)**: Understanding Data, Data Preprocessing, Feature Engineering, Distances (Scikit-Learn Tutorial by TA) 📝
 - **Week 4 (09/15)**: Mining Labeled Data: Decision Tree Classification (Coding DT by TA) 📝
 
