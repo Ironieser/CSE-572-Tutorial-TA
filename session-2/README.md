@@ -2,11 +2,12 @@
 
 Week 2 - Labor Day (Pandas Tutorial by TA)
 
-## 📌 Coming Soon
-- Introduction to **Pandas** library
-- Reading and writing data files
-- Data manipulation and analysis
-- Basic data cleaning techniques
+## 📌 What We'll Learn
+- Using local editors (VSCode/Cursor) with Python
+- Working with local Python interpreter
+- **Pandas** basics: import, create, read data
+- Common operations: add, delete, modify data
+- Save results to files
 
 ## 🗓 Session Info
 - **Date:** Week 2
@@ -14,8 +15,9 @@ Week 2 - Labor Day (Pandas Tutorial by TA)
 - **Recording:** Available on Canvas
 
 ## 📂 Structure
-- `setup/` → Pandas installation guide
+- `setup/` → VSCode setup and Pandas installation
 - `demo/` → Pandas examples and exercises
+- `data/` → Sample datasets for practice
 
 ## 🚀 Pre-Step: Install VSCode
 
@@ -38,6 +40,43 @@ Before the session, please install Visual Studio Code:
 - **Pylance** (Microsoft)
 - **Python Indent** (Kevin Rose)
 - **Jupyter** (Microsoft)
+
+## 🚀 Quick Start
+
+1. **Go to Session 2**
+   ```bash
+   cd session-2
+   ```
+
+2. **Activate your Python environment**
+   ```bash
+   conda activate cse572
+   ```
+
+3. **Install Pandas**
+   ```bash
+   pip install pandas
+   ```
+
+4. **Run the demos**
+   ```bash
+   cd demo
+   python pandas_basics.py
+   ```
+
+## 📊 Demo Topics
+
+### 1. Basic Operations
+- Import pandas and create DataFrame
+- Add/delete rows and columns
+- Modify data values
+- Save results to CSV
+
+### 2. Data Manipulation
+- Filter data by conditions
+- Sort data by columns
+- Group and aggregate data
+- Handle missing values
 
 ## 🔗 Contact
 **Sixun Dong** (CSE 572 TA)  
