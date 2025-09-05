@@ -46,8 +46,8 @@ ehthumbs.db
 Thumbs.db
 
 # Output files
-*.csv
-*.xlsx
+# *.csv
+# *.xlsx
 *.json
 output_*
 results_*
