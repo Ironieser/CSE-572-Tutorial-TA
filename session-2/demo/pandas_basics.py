@@ -95,7 +95,7 @@ def demo_4_read_csv():
     print("=" * 50)
     
     # Read students data
-    csv_path = os.path.join('..', 'data', 'students.csv')
+    csv_path = os.path.join('session-2', 'data', 'students.csv')
     df = pd.read_csv(csv_path)
     
     print("Students data from CSV:")
@@ -140,7 +140,7 @@ def demo_6_filter_data():
     print("=" * 50)
     
     # Read students data
-    csv_path = os.path.join('..', 'data', 'students.csv')
+    csv_path = os.path.join('session-2', 'data', 'students.csv')
     df = pd.read_csv(csv_path)
     
     print("All students:")
@@ -164,7 +164,7 @@ def demo_7_sort_data():
     print("📊 Demo 7: Sort data")
     print("=" * 50)
     
-    csv_path = os.path.join('..', 'data', 'students.csv')
+    csv_path = os.path.join('session-2', 'data', 'students.csv')
     df = pd.read_csv(csv_path)
     
     print("Original data:")

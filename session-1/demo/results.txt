@@ -1,0 +1,5 @@
+CSE-572 Demo Results
+====================
+Number of students: 3
+Average score: 85.0
+Best student: Bob

@@ -18,10 +18,10 @@ def exercise_1_create_dataframe():
     
     # Your code here:
     movies = {
-        'Title': ['The Matrix', 'Inception', 'Interstellar'],
-        'Year': [1999, 2010, 2014],
-        'Rating': [8.7, 8.8, 8.6],
-        'Genre': ['Sci-Fi', 'Sci-Fi', 'Sci-Fi']
+        'Title': ['The Matrix', 'Inception', 'Interstellar', 'The Dark Knight'],
+        'Year': [1999, 2010, 2014, 2016],
+        'Rating': [8.7, 8.8, 8.6, 9.0],
+        'Genre': ['Sci-Fi', 'Sci-Fi', 'Sci-Fi', 'Sci-Fi']
     }
     
     df = pd.DataFrame(movies)
